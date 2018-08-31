@@ -96,3 +96,8 @@ footer{
 	color: #F15B31;
 	font-weight: 700;
 }
+
+button{
+	margin: 20px;
+	background-color: #F15B31;
+}
